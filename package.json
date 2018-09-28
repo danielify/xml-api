@@ -1,0 +1,26 @@
+{
+  "name": "xml-api",
+  "version": "1.0.0",
+  "description": "API em XML para teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielify/xml-api.git"
+  },
+  "keywords": [
+    "xml",
+    "api"
+  ],
+  "author": "Daniel Barros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielify/xml-api/issues"
+  },
+  "homepage": "https://github.com/danielify/xml-api#readme",
+  "dependencies": {
+    "restify": "^7.2.1"
+  }
+}
