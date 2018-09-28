@@ -1,4 +1,5 @@
 var restify = require('restify');
+var js2xmlparser = require("js2xmlparser");
 
 const object = {
   nome: "Fátima Teobaldo",
