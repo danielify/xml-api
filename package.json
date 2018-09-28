@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/danielify/xml-api#readme",
   "dependencies": {
+    "js2xmlparser": "^3.0.0",
     "restify": "^7.2.1"
   }
 }
