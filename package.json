@@ -4,6 +4,7 @@
   "description": "API em XML para teste",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "repository": {
